@@ -1,4 +1,4 @@
-# iRacing-Time-Attack
+# iRacing-Time-Attack - 2024 - Season 3 (mostly IMSA)
 
 ||Acura GTP|LMP2|Ferrari GT3|AMG GT4|Honda TCR|GR86|
 |---|---|---|---|---|---|---|
